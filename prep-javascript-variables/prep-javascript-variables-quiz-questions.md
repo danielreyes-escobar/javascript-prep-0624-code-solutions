@@ -7,7 +7,7 @@ Answer the following questions in the provided markdown file before turning in t
 - What does the `=` (equals) operator do in JavaScript?
   It assigns the value on its right to the variable on its left
 - What operator will return the data type of a variable value?
-
+  The = symbol
 - Which keyword is used to declare a variable in JavaScript?
   You declare variables by giving them a name, using the var, let, or const keywords
 - Which characters is a JavaScript variable allowed to begin with?
